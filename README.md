@@ -1,7 +1,4 @@
 # SpiralKnightsSceneArchive
-An archive of Spiral Knights scenes (levels). Preserved in case the servers are ever shut down.
-
-
 The Spiral Knights client only downloads scenes (levels) from the server as they are needed, and some are normally not saved to the hard drive at all. Should the servers ever shut down said content would be lost, this archive aims to fix that by preserving them.
 
 
