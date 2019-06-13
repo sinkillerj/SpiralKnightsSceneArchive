@@ -71,3 +71,5 @@
 2019/06/12 21:31:31:396 INFO K$a.b: Got updated scene model [placeId=436, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741856/%dungeon:Tracking/1]
 2019/06/12 21:42:16:584 INFO K$a.b: Got updated scene model [placeId=447, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741858/%dungeon:Resistance/1]
 2019/06/12 21:49:44:036 INFO K$a.b: Got updated scene model [placeId=458, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741860/%dungeon:Extraction/1]
+2019/06/12 22:46:54:271 INFO K$a.b: Got updated scene model [placeId=641, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741873/%dungeon:Toxic Cavern/1]
+2019/06/12 22:50:15:605 INFO K$a.b: Got updated scene model [placeId=647, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741874/%dungeon:Power Grid/1]
