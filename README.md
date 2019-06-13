@@ -2,7 +2,7 @@
 The Spiral Knights client only downloads scenes (levels) from the server as they are needed, and some (procedural levels) are normally not saved to the local cache at all. Should the servers ever shut down said content would be lost, this archive aims to fix that by preserving them.
 
 
-"scenesmain.log" contains a log of when each scene was downloaded as well info about it, "scenesmaini18n.log" is the same but with the scene names translated to their human readable level names as seen in the game itself.
+"scenesmain.log" contains a log of when each scene was downloaded as well as info about it, "scenesmaini18n.log" is the same but with the scene names translated to their human readable level names as seen in the game itself.
 
 
 Scenes with ID's greater than 1073741823 are procedurally generated levels, these are often overwritten so be sure to checkout the appropriate commit for the mission/level type you want. Ideally for future server development these should be broken back down into their procedural chunks and used as examples only.
