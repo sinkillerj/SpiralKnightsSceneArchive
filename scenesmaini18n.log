@@ -93,3 +93,7 @@
 2019/06/13 22:47:02:208 INFO K$a.b: Got updated scene model [placeId=676, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=377/%dungeon:Barking Mad/278]
 2019/06/13 22:51:50:409 INFO K$a.b: Got updated scene model [placeId=686, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=373/%dungeon:Outpost of Tyranny/278]
 2019/06/13 23:12:30:900 INFO K$a.b: Got updated scene model [placeId=403, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=371/%dungeon:Outpost of Tyranny/278]
+2019/06/13 23:25:38:838 INFO K$a.b: Got updated scene model [placeId=500, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741850/%dungeon:The Cold March/1]
+2019/06/13 23:32:53:723 INFO K$a.b: Got updated scene model [placeId=515, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741851/%dungeon:The Iron Tundra/1]
+2019/06/13 23:35:29:357 INFO K$a.b: Got updated scene model [placeId=517, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741852/%dungeon:The Bitter Battle/1]
+2019/06/13 23:44:16:678 INFO K$a.b: Got updated scene model [placeId=521, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=31444/%dungeon:Hidden Hideout/176]
