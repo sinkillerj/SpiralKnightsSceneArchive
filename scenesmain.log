@@ -97,3 +97,7 @@
 2019/06/13 23:32:53:723 INFO K$a.b: Got updated scene model [placeId=515, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741851/%dungeon:m.dz_freeze_spark_roar/1]
 2019/06/13 23:35:29:357 INFO K$a.b: Got updated scene model [placeId=517, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741852/%dungeon:m.ima_construct_spark_roar/1]
 2019/06/13 23:44:16:678 INFO K$a.b: Got updated scene model [placeId=521, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=31444/%dungeon:m.spark_roar_finale/176]
+2019/06/13 23:56:23:848 INFO K$a.b: Got updated scene model [placeId=644, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=287/%dungeon:m.dark_city_devilish_drudgery_4_returnofur/278]
+2019/06/13 23:59:36:982 INFO K$a.b: Got updated scene model [placeId=784, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=289/%dungeon:m.dark_city_devilish_drudgery_5_returnofur/278]
+2019/06/14 00:13:29:437 INFO K$a.b: Got updated scene model [placeId=788, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=291/%dungeon:m.dark_city_devilish_drudgery_6_returnofur/276]
+2019/06/14 00:19:39:522 INFO K$a.b: Got updated scene model [placeId=791, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=293/%dungeon:m.dark_city_miniboss_returnofur/276]
