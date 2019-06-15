@@ -107,3 +107,8 @@
 2019/06/14 00:51:55:683 INFO K$a.b: Got updated scene model [placeId=541, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741874/%dungeon:Forgotten Trail/1]
 2019/06/14 00:55:17:417 INFO K$a.b: Got updated scene model [placeId=544, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741875/%dungeon:Lichen Colony/1]
 2019/06/14 00:58:29:152 INFO K$a.b: Got updated scene model [placeId=545, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741876/%dungeon:Processing Plant/1]
+2019/06/14 21:44:29:585 INFO K$a.b: Got updated scene model [placeId=126, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=275/%dungeon:Streets of Decay/278]
+2019/06/14 21:46:17:769 INFO K$a.b: Got updated scene model [placeId=366, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=273/%dungeon:Streets of Decay/278]
+2019/06/14 21:50:11:970 INFO K$a.b: Got updated scene model [placeId=367, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=282/%dungeon:Further Decline/277]
+2019/06/14 21:56:48:555 INFO K$a.b: Got updated scene model [placeId=220, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=280/%dungeon:Further Decline/278]
+2019/06/14 22:00:40:656 INFO K$a.b: Got updated scene model [placeId=223, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=277/%dungeon:Citizen Uprising/279]
