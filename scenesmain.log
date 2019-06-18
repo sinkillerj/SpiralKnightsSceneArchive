@@ -152,3 +152,8 @@
 2019/06/17 23:36:10:601 INFO K$a.b: Got updated scene model [placeId=1004, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=34416/%dungeon:m.firestorm_citadel_greenstone_bridge/139]
 2019/06/17 23:47:44:955 INFO K$a.b: Got updated scene model [placeId=1020, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=34504/%dungeon:m.firestorm_citadel_overgrown_court/137]
 2019/06/18 00:01:59:047 INFO K$a.b: Got updated scene model [placeId=1023, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=34417/%dungeon:m.firestorm_citadel_throne_room/139]
+2019/06/18 11:45:18:258 INFO K$a.b: Got updated scene model [placeId=515, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=34505/%dungeon:m.terminal_core_camefrombelow/137]
+2019/06/18 11:47:24:441 INFO K$a.b: Got updated scene model [placeId=516, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741846/%dungeon:m.core_1/1]
+2019/06/18 11:55:57:096 INFO K$a.b: Got updated scene model [placeId=520, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741848/%dungeon:m.core_1/1]
+2019/06/18 12:02:03:248 INFO K$a.b: Got updated scene model [placeId=522, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=34890/%dungeon:m.core_dreamsandnightmares_finale/133]
+2019/06/18 12:12:02:003 INFO K$a.b: Got updated scene model [placeId=531, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=34891/%dungeon:m.core_treasure_vault/133]
