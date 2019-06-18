@@ -1,0 +1,4 @@
+2019/06/18 13:51:43:887 INFO K$a.b: Got updated scene model [placeId=818, config=[type=data.TownSceneConfig, ], scene=2/%town:m.haven_bazaar/-250042096]
+2019/06/18 13:52:21:570 INFO K$a.b: Got updated scene model [placeId=820, config=[type=data.TownSceneConfig, ], scene=1/%town:m.haven_town_square/1111932038]
+2019/06/18 13:53:35:688 INFO K$a.b: Got updated scene model [placeId=1231, config=[type=data.TownSceneConfig, ], scene=445/%town:m.haven_eastside/-1605088030]
+2019/06/18 13:54:18:788 INFO K$a.b: Got updated scene model [placeId=1270, config=[type=data.TownSceneConfig, ], scene=3/%town:m.haven_arcade/-1324583766]
