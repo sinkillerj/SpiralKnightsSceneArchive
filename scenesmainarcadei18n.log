@@ -34,3 +34,5 @@
 2019/06/19 20:07:19:689 INFO K$a.b: Got updated scene model [placeId=744, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=363/%dungeon:Aurora Isles|The Jelly Farm/278]
 2019/06/19 20:15:11:291 INFO K$a.b: Got updated scene model [placeId=627, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=361/%dungeon:Aurora Isles|Stone Grove/277]
 2019/06/19 20:33:12:515 INFO K$a.b: Got updated scene model [placeId=942, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=364/%dungeon:Aurora Isles|The Jelly Farm_2/278]
+2019/06/19 21:08:02:409 INFO K$a.b: Got updated scene model [placeId=1017, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=372/%dungeon:Jigsaw Valley|Perimeter Promenade/278]
+2019/06/19 21:09:13:458 INFO K$a.b: Got updated scene model [placeId=947, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=374/%dungeon:Jigsaw Valley|Perimeter Promenade II/277]
