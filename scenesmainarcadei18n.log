@@ -31,3 +31,6 @@
 2019/06/18 16:35:25:061 INFO K$a.b: Got updated scene model [placeId=1336, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741885/%dungeon:Deconstruction Zone|Cold Storage/1]
 2019/06/18 16:38:26:029 INFO K$a.b: Got updated scene model [placeId=1337, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=1073741886/%dungeon:Cooling Chamber|Wild Path/1]
 2019/06/18 16:45:03:149 INFO K$a.b: Got updated scene model [placeId=1340, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=328/%dungeon:The Core|The Path is Sealed/276]
+2019/06/19 20:07:19:689 INFO K$a.b: Got updated scene model [placeId=744, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=363/%dungeon:Aurora Isles|The Jelly Farm/278]
+2019/06/19 20:15:11:291 INFO K$a.b: Got updated scene model [placeId=627, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=361/%dungeon:Aurora Isles|Stone Grove/277]
+2019/06/19 20:33:12:515 INFO K$a.b: Got updated scene model [placeId=942, config=[type=data.LevelSceneConfig, aDh=null, aDi=true], scene=364/%dungeon:Aurora Isles|The Jelly Farm_2/278]
