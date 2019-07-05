@@ -111,3 +111,7 @@
 2019/07/02 22:32:31:556 INFO K$a.b: Got updated scene model [placeId=760, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=260/%dungeon:m.scarlet_fortress_grim_gallery/-1172191676]
 2019/07/02 22:41:16:409 INFO K$a.b: Got updated scene model [placeId=768, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741906/%dungeon:m.bf_slime/1]
 2019/07/02 22:47:28:644 INFO K$a.b: Got updated scene model [placeId=771, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741907/%dungeon:m.graveyard_vanilla/1]
+2019/07/04 22:43:15:022 INFO K$a.b: Got updated scene model [placeId=454, config=[type=data.TownSceneConfig, ], scene=1/%town:m.haven_town_square/1111935038]
+2019/07/04 22:49:00:057 INFO K$a.b: Got updated scene model [placeId=1017, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741908/%dungeon:m.deconstruction_zone_shock/1]
+2019/07/04 22:50:58:308 INFO K$a.b: Got updated scene model [placeId=1018, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741909/%dungeon:m.pc_beast/1]
+2019/07/04 22:56:54:560 INFO K$a.b: Got updated scene model [placeId=1021, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741910/%dungeon:m.graveyard_vanilla/1]
