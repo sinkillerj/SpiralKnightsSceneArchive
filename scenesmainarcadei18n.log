@@ -124,3 +124,7 @@
 2019/07/07 00:25:51:415 INFO K$a.b: Got updated scene model [placeId=731, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=391/%dungeon:Starlight Cradle|Shrine of Slumber II/281]
 2019/07/07 00:33:17:933 INFO K$a.b: Got updated scene model [placeId=733, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=393/%dungeon:Starlight Cradle|Shrine of Slumber IV/281]
 2019/07/07 00:40:46:251 INFO K$a.b: Got updated scene model [placeId=736, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741911/%dungeon:Iron Edge Arena|Robo Rampage/1]
+2019/07/13 00:39:44:052 INFO K$a.b: Got updated scene model [placeId=564, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=349/%dungeon:Emberlight|Town of Gremlin Outcasts/280]
+2019/07/13 00:40:03:002 INFO K$a.b: Got updated scene model [placeId=565, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=386/%dungeon:Starlight Cradle|Meteor Mile/281]
+2019/07/13 00:47:03:488 INFO K$a.b: Got updated scene model [placeId=576, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=388/%dungeon:Starlight Cradle|Meteor Mile III/39284144]
+2019/07/13 00:59:59:176 INFO K$a.b: Got updated scene model [placeId=591, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741880/%dungeon:Treasure Vault|Flash Crash/1]
