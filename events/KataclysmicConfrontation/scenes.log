@@ -1,3 +1,6 @@
 2019/08/20 17:44:26:869 INFO K$a.b: Got updated scene model [placeId=1233, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073742015/%dungeon:m.ct_undead/1]
 2019/08/20 17:50:47:438 INFO K$a.b: Got updated scene model [placeId=1240, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073742018/%dungeon:m.graveyard_vanilla/1]
 2019/08/20 17:54:25:139 INFO K$a.b: Got updated scene model [placeId=1246, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073742021/%dungeon:m.ww_undead/1]
+2019/08/22 00:45:43:514 INFO K$a.b: Got updated scene model [placeId=880, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741934/%dungeon:m.bf_undead/1]
+2019/08/22 00:51:53:165 INFO K$a.b: Got updated scene model [placeId=882, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741936/%dungeon:m.graveyard_vanilla/1]
+2019/08/22 00:53:22:932 INFO K$a.b: Got updated scene model [placeId=883, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741937/%dungeon:m.candlestick_keep_fire/1]
