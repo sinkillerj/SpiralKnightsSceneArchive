@@ -4,3 +4,6 @@
 2019/08/22 00:45:43:514 INFO K$a.b: Got updated scene model [placeId=880, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741934/%dungeon:Blast Furnace|Haunted Passage/1]
 2019/08/22 00:51:53:165 INFO K$a.b: Got updated scene model [placeId=882, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741936/%dungeon:Graveyard|Where Monsters Fear to Tread/1]
 2019/08/22 00:53:22:932 INFO K$a.b: Got updated scene model [placeId=883, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741937/%dungeon:Candlestick Keep|Burning Blackout/1]
+2019/08/22 23:01:03:101 INFO K$a.b: Got updated scene model [placeId=323, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741851/%dungeon:Candlestick Keep|Noxious Night/1]
+2019/08/22 23:11:13:454 INFO K$a.b: Got updated scene model [placeId=352, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741857/%dungeon:Thunder Fist Arena|Cadaverous Clash/1]
+2019/08/22 23:15:22:655 INFO K$a.b: Got updated scene model [placeId=371, config=[type=data.LevelSceneConfig, aDm=null, aDn=true], scene=1073741861/%dungeon:Clockwork Tunnels|Haunted Passage/1]
