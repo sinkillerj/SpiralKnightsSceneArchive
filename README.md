@@ -13,6 +13,8 @@ Titanium contains scenes collected from the now dead Chinese bootleg "Titanium W
 
 In order to do anything useful with these you will need the Tudey Scene Editor, this is part of Clyde which can be found here: [https://github.com/threerings/clyde](https://github.com/threerings/clyde)
 
+Alternatively precompiled versions of Tudey can be found in software such as SpiralView: https://github.com/lucas-allegri/spiralview
+
 
 # Contributing
 Cached scenes can be found in the "scenes" folder of any Spiral Knights install, if you have any to contribute, especially from an older install of the game, simply open a Pull Request here. Please create a new folder to keep them separate from the main archive, your GitHub username is a suitable folder name if in doubt.
