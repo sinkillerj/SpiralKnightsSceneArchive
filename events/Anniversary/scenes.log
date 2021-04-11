@@ -1,3 +1,4 @@
 2021/04/09 18:54:11:759 INFO K$a.b: Got updated scene model [placeId=114, config=[type=data.TownSceneConfig, ], scene=1/%town:m.haven_town_square/-1258356626]
 2021/04/09 18:57:00:138 INFO K$a.b: Got updated scene model [placeId=703, config=[type=data.LevelSceneConfig, aDo=null, aDp=true], scene=326/%dungeon:m.spiral_kitchen/284]
 2021/04/09 19:06:38:116 INFO K$a.b: Got updated scene model [placeId=683, config=[type=data.LevelSceneConfig, aDo=null, aDp=true], scene=30892/%dungeon:m.anniversary_gremlin_kitchen/191]
+2021/04/10 20:03:39:249 INFO K$a.b: Got updated scene model [placeId=536, config=[type=data.LevelSceneConfig, aDo=null, aDp=true], scene=1073741864/%dungeon:m.cc_fiend/1]
